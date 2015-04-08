@@ -7,7 +7,7 @@ Conway's game of life written in Swift with SpriteKit
 
 Jump straight to interesting parts of the code:
 * [The Logic](https://github.com/yonbergman/swift-gameoflife/blob/master/gameoflife/World.swift)
-* [Dispaying the cells](https://github.com/yonbergman/swift-gameoflife/blob/master/gameoflife/GameScene.swift)
+* [Displaying the cells](https://github.com/yonbergman/swift-gameoflife/blob/master/gameoflife/GameScene.swift)
 * [Some tests](https://github.com/yonbergman/swift-gameoflife/blob/master/gameoflifeTests/pointTests.swift)
 
 ## Author
